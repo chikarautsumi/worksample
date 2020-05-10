@@ -16,7 +16,7 @@ class Human
     end
 
     def selfintroduction
-        #インスタンス変数nemeを呼び出す
+        #インスタンス変数nameを呼び出す
         puts "私の名前は#{self.name}です"
     end
 end
